@@ -1,0 +1,1 @@
+ D:\\Klola\\.dart_tool\\flutter_build\\862fbba8a6676110adbf10395290e918\\native_assets.json: 
